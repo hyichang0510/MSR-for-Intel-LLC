@@ -1,0 +1,1 @@
+void wrmsr_on_cpu_0(uint32_t reg, int valcnt, uint64_t *regvals);
